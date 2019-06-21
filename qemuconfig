@@ -1,0 +1,8 @@
+IMG_NAME='CarPi'
+USE_QEMU=1
+FIRST_USER_NAME='idan'
+FIRST_USER_PASS='idan'
+WPA_ESSID='Incident Express'
+WPA_PASSWORD='idanbeck'
+WPA_COUNTRY='us'
+ENABLE_SSH=1
